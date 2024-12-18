@@ -8,6 +8,7 @@ int lV() {
         int z = 6 - e;
         if (e > z) {
             cout << "Десятичное: " << i << ", Двоичное: " << b << std::endl;
+            cout << "Здесь был Сеня";
         }
     }
     return 0;
